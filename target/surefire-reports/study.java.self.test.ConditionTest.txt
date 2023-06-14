@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: study.java.self.test.ConditionTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.228 s - in study.java.self.test.ConditionTest
